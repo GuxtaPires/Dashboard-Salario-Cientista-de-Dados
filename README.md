@@ -5,7 +5,7 @@
 ## 📋 🇧🇷 Descrição || Description 🇺🇸
 
 Este projeto é um dashboard interativo desenvolvido em Python com Streamlit, permitindo a análise de salários na área de dados. Explore tendências salariais, cargos, tipos de contrato e outras informações relevantes do mercado de dados de forma visual e dinâmica.
-🌐 Veja o Dashboard online: [Acessar Dashboard]([https://www.linkedin.com/in/gustavodasilvapires/](https://dashboard-salario-cientista-de-dados.streamlit.app/))
+🌐 Veja o Dashboard online: [Acessar Dashboard]([https://www.linkedin.com/in/gustavodasilvapires/](https://dashboard-salario-cientista-de-dados.streamlit.app/)
 
 This project is an interactive dashboard built with Python and Streamlit, allowing the analysis of data-related salaries. Explore salary trends, roles, contract types, and other relevant market information in a visual and dynamic way.
 🌐 View the Dashboard online: [Open Dashboard](https://dashboard-salario-cientista-de-dados.streamlit.app/)
